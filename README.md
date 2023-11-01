@@ -1,10 +1,12 @@
-# Diabete Veri Seti ve Özellik Mühendisliği
+# Diabetes Veri Seti ve Özellik Mühendisliği
 
 Bu proje, Pima Indian kadınları üzerinde yapılan diyabet araştırması veri seti üzerinde veri analizi ve özellik mühendisliği adımlarını içermektedir.
 
 ## Problem
 
-Proje, kişilerin diyabet hastası olup olmadıklarını tahmin etmek amacıyla bir makine öğrenmesi modeli geliştirmeyi hedeflemektedir. Bu, sağlık sektöründe klinik karar destek sistemlerinin geliştirilmesi için bir örnektir.
+
+Problem : Özellikleri belirtildiğinde kişilerin diyabet hastası olup olmadıklarını tahmin edebilecek bir makine öğrenmesi modeli geliştirilmesi
+istenmektedir. Modeli geliştirmeden önce gerekli olan veri analizi ve özellik mühendisliği adımlarını gerçekleştirmeniz beklenmektedir.
 
 ## Veri Seti
 
